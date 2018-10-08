@@ -44,3 +44,4 @@ run/*
 .settings/*
 Minecraft Forge*
 bin/*
+!build/resources/
