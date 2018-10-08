@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [{
   "modid": "vampirecreepers",
   "name": "Vampire Creepers",
@@ -8,4 +9,16 @@
   "url": "",
   "updateJSON": "",
   "authorList": ["Rowdowser"]
+=======
+[{
+  "modid": "vampirecreepers",
+  "name": "Vampire Creepers",
+  "description": "Makes creepers burn in sunlight.",
+  "version": ${version},
+  "mcversion": ${mcversion},
+  "logoFile": "",
+  "url": "",
+  "updateJSON": "",
+  "authorList": ["Rowdowser"]
+>>>>>>> Adding rest of the files
 }]
