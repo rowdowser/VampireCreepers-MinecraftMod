@@ -1,0 +1,11 @@
+[{
+  "modid": "vampirecreepers",
+  "name": "Vampire Creepers",
+  "description": "Makes creepers burn in sunlight.",
+  "version": ${version},
+  "mcversion": ${mcversion},
+  "logoFile": "",
+  "url": "",
+  "updateJSON": "",
+  "authorList": ["Rowdowser"]
+}]
