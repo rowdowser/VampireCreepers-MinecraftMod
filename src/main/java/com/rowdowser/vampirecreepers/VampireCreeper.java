@@ -1,4 +1,4 @@
-package main.java.com.rowdowser.vampirecreepers;
+package com.rowdowser.vampirecreepers;
 
 import net.minecraft.entity.ai.EntityAIFleeSun;
 import net.minecraft.entity.item.EntityBoat;

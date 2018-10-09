@@ -1,4 +1,4 @@
-package main.java.com.rowdowser.vampirecreepers;
+package com.rowdowser.vampirecreepers;
 
 import net.minecraft.entity.monster.EntityCreeper;
 import net.minecraftforge.event.entity.EntityJoinWorldEvent;

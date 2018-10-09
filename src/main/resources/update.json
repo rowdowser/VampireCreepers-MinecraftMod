@@ -1,0 +1,11 @@
+{
+  "homepage": "https://github.com/rowdowser/VampireCreepers-MinecraftMod",
+  "promos": {
+    "1.12.2-latest": "1.12.2-1.0.0.1",
+    "1.12.2-recommended": "1.12.2-1.0.0.10"
+  },
+  "${mcversion}": {
+    "1.12.2-1.0.0.1": "Test update",
+    "1.12.2-1.0.0.0": "First update."
+  }
+}

@@ -5,7 +5,7 @@
   "version": ${version},
   "mcversion": ${mcversion},
   "logoFile": "",
-  "url": "",
-  "updateJSON": "",
+  "url": "https://github.com/rowdowser/VampireCreepers-MinecraftMod",
+  "updateJSON": "https://raw.githubusercontent.com/rowdowser/VampireCreepers-MinecraftMod/master/build/resources/main/update.json",
   "authorList": ["Rowdowser"]
 }]
