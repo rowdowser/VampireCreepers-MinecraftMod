@@ -2,13 +2,6 @@
   "homepage": "https://github.com/rowdowser/VampireCreepers-MinecraftMod/tree/master",
   1.12.2: {
     1.12.2-1.0.0.1: "", 
-    // List all versions of your mod for the given Minecraft version, along with their changelogs
-  },
-  //"promos": {
-  //  "<mcversion>-latest": "<modversion>",
-  //  // Declare the latest "bleeding-edge" version of your mod for the given Minecraft version
-  //  "<mcversion>-recommended": "<modversion>",
-  //  // Declare the latest "stable" version of your mod for the given Minecraft version
-  //  ...
-  //}
+    1.12.2-1.0.0.0: "First version"
+  }
 }
